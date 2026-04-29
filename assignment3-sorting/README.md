@@ -1,3 +1,7 @@
+# assignment2-ads
+## Name: Zhumabek Abilgali
+## Group: SE-2512
+
 # Sorting and Searching Analysis
 
 ## Algorithms Used
