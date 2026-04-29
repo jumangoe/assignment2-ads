@@ -20,6 +20,20 @@ Binary Search is fast but needs sorted array.
 
 <img width="1440" height="900" alt="Снимок экрана 2026-04-28 в 21 42 03" src="https://github.com/user-attachments/assets/cb93482b-08fb-4ead-823b-1dc3358d0d4d" />
 
+Size 10:
+Basic Sort: 11958
+Advanced Sort: 25042
+Search: 2292
+
+Size 100:
+Basic Sort: 133541
+Advanced Sort: 136625
+Search: 2167
+
+Size 1000:
+Basic Sort: 3972167
+Advanced Sort: 289083
+Search: 4833
 
 ## Analysis
 
